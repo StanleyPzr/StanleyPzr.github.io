@@ -10,6 +10,6 @@ cd dist
 
 git add -A
 git commit -m "Nuevo"
-git push --set-upstream origin master
+git push -f git@github.com:StanleyPzr/StanleyPzr.github.io.git master:gh-pages
 
 cd -
