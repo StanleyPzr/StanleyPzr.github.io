@@ -9,7 +9,7 @@ cd dist
 
 
 git add -A
-git commit -m "Nuevo"
+git commit -m "Nuevo aaaaa"
 git push -f git@github.com:StanleyPzr/StanleyPzr.github.io.git master:gh-pages
 
 cd -
